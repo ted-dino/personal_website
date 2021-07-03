@@ -1,2 +1,2 @@
-# personal_website
+# My Site
 My first attempt
